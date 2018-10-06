@@ -2,3 +2,4 @@ This is the fourth planet.
 ..mars is red
 mars is dry
 moved to Jupiter
+Isn't it pretty far from sun
